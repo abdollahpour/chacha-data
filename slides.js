@@ -29,4 +29,5 @@ jsonCallback(
 				"link": "https://raw.github.com/abdollahpour/chacha-data/master/image/slide/image4.jpg"
 			}
 		]
+	}
 );
